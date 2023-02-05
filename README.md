@@ -2,7 +2,7 @@
 
 A 1.5-day workshop for early career faculty and researchers in combustion and reaction sciences
 will be held 18–19 March 2323 in College Station, Texas, immediately prior to the
-[13th US National Combustion Meeting](https://wssci.us/meetings/ncm2019/).
+[13th US National Combustion Meeting](https://turbolab.tamu.edu/uscnm2023/).
 
 This workshop will bring together junior faculty doing research in combustion, fire, and related fields, to discuss cultural issues facing the community. Anyone interested in participating needs to apply; see [Registration](registration.md) for details.
 

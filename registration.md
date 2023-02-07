@@ -4,7 +4,7 @@ title: Registration
 
 ## Registration
 
-Registration interest forms for this event will be posted soon. Please contact Daniel I. Pineda (<daniel.pineda@utsa.edu>) with any questions in the meantime. 
+If you are an early career faculty member, or national lab researcher in an equivalent position at a U.S. institution working in or around the area of combustion and feel you should be invited, [please apply for consideration](https://gfhq1yex2pg.typeform.com/to/htCggi08).
 
 Participants will receive travel funds to cover one hotel night and 1.5 days of meals.
 In addition, applications from non-R1 institutions will be eligible for an additional 
